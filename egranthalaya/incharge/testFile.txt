@@ -1,0 +1,165 @@
+Title:a
+Bib Level:BBDU
+Category:235
+Material Level:chjhl;
+Language:
+Author1:NIC
+Author2:NIC
+Author:Vikas
+Year:w5tt8
+Publisher:
+Place:dghvk
+Date:2547869
+Subject:aaa
+Abstract:
+
+Title:as
+Bib Level:BBDU
+Category:e67578
+Material Level:chjhl;
+Language:
+Author1:BBDU
+Author2:BBDU
+Author:BBDU
+Year:36656
+Publisher:
+Place:vjn
+Date:254578
+Subject:
+Abstract: jbn./,
+
+Title:c
+Bib Level:BBDU
+Category:235
+Material Level:chjhl;
+Language:
+Author1:NIC
+Author2:NIC
+Author:NIC
+Year:365476
+Publisher:NIC
+Place:lko
+Date:356
+Subject:aaa
+Abstract:fxhjbn.m
+
+Title:a
+Bib Level:BBDU
+Category:6
+Material Level:chjhl;
+Language:
+Author1:NIC
+Author2:NIC
+Author:NIC
+Year:25475
+Publisher:BBDU
+Place:lko
+Date:3658
+Subject:aaa
+Abstract:xghfvkm
+
+Title:b
+Bib Level:BBDU
+Category:235
+Material Level:chjhl;
+Language:
+Author1:BBDU
+Author2:BBDU
+Author:BBDU
+Year:25475
+Publisher:BBDU
+Place:lko
+Date:467679
+Subject:aaa
+Abstract:dhgh.
+
+Title:a
+Bib Level:BBDU
+Category:a
+Material Level:chjhl;
+Language:
+Author1:NIC
+Author2:NIC
+Author:NIC
+Year:25475
+Publisher:NIC
+Place:lko
+Date:4658
+Subject:aaa
+Abstract:dwrhtkj
+
+Title:a
+Bib Level:BBDU
+Category:235
+Material Level:chjhl;
+Language:
+Author1:BBDU
+Author2:NIC
+Author:NIC
+Year:3236y7u56
+Publisher:
+Place:xasvd
+Date:53475
+Subject:aaa
+Abstract:czvf 
+
+Title:a
+Bib Level:BBDU
+Category:235
+Material Level:chjhl;
+Language:
+Author1:BBDU
+Author2:BBDU
+Author:BBDU
+Year:e1453
+Publisher:BBDU
+Place:safvbf
+Date:437
+Subject:aaa
+Abstract:csdbfng
+
+Title:aaa
+Bib Level:BBDU
+Category:3242
+Material Level:chjhl;
+Language:
+Author1:BBDU
+Author2:NIC
+Author:BBDU
+Year:2015
+Publisher:BBDU
+Place:bly
+Date:11
+Subject:aaa
+Abstract:aaaaaaa
+
+Title:a
+Bib Level:BBDU
+Category:235
+Material Level:chjhl;
+Language:English
+Author1:BBDU
+Author2:BBDU
+Author:BBDU
+Year:34325r
+Publisher:BBDU
+Place:avd
+Date:42547
+Subject:aaa
+Abstract:v dc g
+
+Title:
+Bib Level:Serials
+Category:14
+Material Level:Books
+Language:English
+Author1:
+Author2:
+Author:
+Year:2001
+Publisher:BBDU
+Place:LKO
+Date:2013
+Subject:aaa
+Abstract:ACSD
+

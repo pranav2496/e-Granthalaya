@@ -1,0 +1,80 @@
+Member No:12
+Member Name:w2
+Category:Vikas
+Res Address:lucknow
+Mail:sv
+Phone:1234
+Add Date: xzknb
+Closing Date:vksh007@gmail.com
+
+
+Member No:13
+Member Name:gr
+Category:BBDU
+Res Address:    xsv
+Mail:acs
+Phone:1234
+Add Date: xzknb
+Closing Date:xs
+
+
+Member No:14
+Member Name:gr
+Category:BBDU
+Res Address:    xsv
+Mail:aaa
+Phone:1234
+Add Date:aaa
+Closing Date:xs
+
+
+Member No:15
+Member Name:gr
+Category:Vikas
+Res Address:lucknow
+Mail:aa
+Phone:1234
+Add Date:aa
+Closing Date:vksh007@gmail.com
+
+
+Member No:0
+Member Name:student
+Category:member
+Res Address:lko
+Mail:lko
+Phone:12345
+Add Date:12345
+Closing Date:member@gmail.com
+
+
+Member No:MEM12
+Member Name:student
+Category:member
+Res Address:      lko1
+Mail:lko
+Phone:123
+Add Date:1234
+Closing Date:member1@gmail.com
+
+
+Member No:33
+Member Name:aa
+Category:Vikas
+Res Address:hazratganj,lko.
+Mail:bbdu,lko.
+Phone:1234
+Add Date:1234
+Closing Date:vksh007@gmail.com
+
+
+Member No:007
+Member Name:W2
+Category:bond
+Res Address:LKO
+Mail:LKO
+Phone:1234
+Add Date:1234
+Closing Date:vksh007@gmail.com
+
+
